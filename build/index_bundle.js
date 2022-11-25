@@ -1,0 +1,1 @@
+(()=>{console.log("bonjour cher IT-AKADEMIEN");var e=document.createElement("h1");document.body.appendChild(e),e.textContent="Hello weelcome to IT-AKADEMY"})();
